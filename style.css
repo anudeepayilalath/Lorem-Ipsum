@@ -1,0 +1,111 @@
+html, body{ height:100%;}
+
+body{
+background-image:url("https://i.pinimg.com/originals/d0/40/87/d04087195bf9de881c809317b879c128.png");}
+
+
+
+  #heading{font-size:50px;
+
+    text-align:center;
+font-family:monospace;
+font-weight:normal;
+font-style:italic;
+color:navajowhite;}
+#topbar{background:indianred;
+overflow:hidden;
+position:relative;
+top:-60px;
+padding:10px;
+margin-left:-8px;
+margin-right:-8px;}
+#new{margin-left:9;
+  font-family:comic sans ms ;
+
+  font-weight:bold;
+text-decoration:none;
+color:darkslategrey;}
+
+
+#f{margin-left:380px;
+font-family:comic sans ms;
+
+  color:white;
+  font-weight:bold;
+}
+#c{
+  color:white;margin-left:380px;
+font-family:comic sans ms ;
+
+font-weight:bold;}
+#z{margin-left:380px;
+margin-right:7px;
+font-family:comic sans ms;
+color:white;
+  font-weight:bold;
+}
+#paragraph1{font-family:arial; 
+position:relative;
+  font-weight:bold;
+left:1539px;
+top:-35px;
+color:silver;
+font-style:italic;}
+#scooterimg{width:389px;
+margin-left:-8px;
+border-radius:70px;}
+#fblogo{margin-bottom:-29px;
+  position:relative;
+  top:-135px;
+  left:1539px;
+}
+#descrip{position:relative;
+top:-39px;
+text-align:center;
+  font-weight:bold;
+font-family:cursive;
+font-style:italic;
+color:gainsboro;}
+#modelfdesc{position:relative;
+top:-180px;
+left:389px;
+  font-size:18px;
+  font-weight:bold;
+  color:powderblue;
+  font-style:italic;
+  
+  
+font-family:candara;
+}
+#secondscooimg{width:380px;
+float:right;
+position:relative;
+top:-112px;
+right:-12px;
+border-radius:70px;}
+#seconddesc{font-family:candara;
+  color:powderblue;
+font-weight:bold;
+position:relative;
+  font-style:italic;
+top:-5px;
+font-size:18px;}
+#thirddesc{font-family:candara;
+font-weight:bold;
+position:relative;
+top:299px;
+left:386px;
+font-size:18px;
+color:powderblue;
+font-style:italic;}
+#thirdimg{width:380px;
+position:relative;
+  top:59px;
+left:-8px;
+border-radius:70px;}
+
+
+#footer1{font-family:candara;
+text-align:right;
+color:white;
+font-weight:bold;}
