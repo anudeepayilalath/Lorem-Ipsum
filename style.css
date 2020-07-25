@@ -35,7 +35,7 @@
        margin-left:80px;
       margin-right:80px;}
     #firstdiv{
-      display:flex;
-      justify-content:center;
-      float:left;}
+      width:100%;
+display:flex;
+justify-content:center;}
  
